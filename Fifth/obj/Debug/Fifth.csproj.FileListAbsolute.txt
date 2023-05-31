@@ -1,0 +1,8 @@
+C:\Users\Юра\source\repos\Fifth\Fifth\bin\Debug\Fifth.exe.config
+C:\Users\Юра\source\repos\Fifth\Fifth\bin\Debug\Fifth.exe
+C:\Users\Юра\source\repos\Fifth\Fifth\bin\Debug\Fifth.pdb
+C:\Users\Юра\source\repos\Fifth\Fifth\obj\Debug\Fifth.csproj.AssemblyReference.cache
+C:\Users\Юра\source\repos\Fifth\Fifth\obj\Debug\Fifth.csproj.SuggestedBindingRedirects.cache
+C:\Users\Юра\source\repos\Fifth\Fifth\obj\Debug\Fifth.csproj.CoreCompileInputs.cache
+C:\Users\Юра\source\repos\Fifth\Fifth\obj\Debug\Fifth.exe
+C:\Users\Юра\source\repos\Fifth\Fifth\obj\Debug\Fifth.pdb
